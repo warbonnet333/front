@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import style from "./Quests.module.css"
 import elips from "../../images/Ellipse 45.svg"
 import vector from "../../images/Vector.svg"
-import quest from "../../images/_.svg"
+import quest from "../../images/question.svg"
 import { CSSTransition } from "react-transition-group"
 import slide from "../../transitions/slide.module.css"
 
