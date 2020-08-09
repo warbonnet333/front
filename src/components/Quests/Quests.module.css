@@ -1,0 +1,120 @@
+.container {
+  padding: 0 15px;
+  margin-top: 80px;
+}
+
+.title_container {
+  display: flex;
+  flex-flow: row;
+}
+
+.title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 35px;
+  color: #2d2971;
+  width: 150px;
+  margin-bottom: 42px;
+}
+
+.quest_logo {
+  position: relative;
+  margin-left: 20px;
+}
+
+.logo_elips,
+.logo_que {
+  position: absolute;
+}
+
+.logo_que {
+  top: 17px;
+  left: 25px;
+}
+
+.quests_list_item_title {
+  display: flex;
+  flex-flow: row;
+  cursor: pointer;
+  margin: 30px 0 20px;
+  position: relative;
+}
+
+.quests_list_item_title::before {
+  content: " ";
+  width: 100%;
+  height: 2px;
+  background-color: #ff671f;
+  position: absolute;
+  bottom: -20px;
+}
+
+.quest {
+  margin-left: 12px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ff671f;
+}
+
+.vector {
+  transform: rotate(180deg);
+}
+
+.vector_open {
+  transform: none;
+}
+
+.quests_list {
+  list-style: none;
+}
+
+.quest_text {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 24px;
+  color: #323131;
+  margin-top: 30px;
+}
+
+@media (min-width: 1399px) {
+  .container {
+    width: 90%;
+    margin: 100px auto;
+  }
+
+  .title {
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 68px;
+    width: 700px;
+  }
+
+  .logo_elips {
+    width: 160px;
+  }
+
+  .logo_que {
+    width: 62px;
+    left: 53px;
+    top: 33px;
+  }
+
+  .quest {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 55px;
+  }
+
+  .vector,
+  .vector_open {
+    width: 32px;
+  }
+
+  .quest_text {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #323131;
+  }
+}
