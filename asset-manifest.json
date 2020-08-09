@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/front/static/css/main.fe6b82ad.chunk.css",
-    "main.js": "/front/static/js/main.f0be427e.chunk.js",
-    "main.js.map": "/front/static/js/main.f0be427e.chunk.js.map",
+    "main.js": "/front/static/js/main.9b1ab94a.chunk.js",
+    "main.js.map": "/front/static/js/main.9b1ab94a.chunk.js.map",
     "runtime-main.js": "/front/static/js/runtime-main.2d2c1fda.js",
     "runtime-main.js.map": "/front/static/js/runtime-main.2d2c1fda.js.map",
     "static/js/2.edb9cd81.chunk.js": "/front/static/js/2.edb9cd81.chunk.js",
     "static/js/2.edb9cd81.chunk.js.map": "/front/static/js/2.edb9cd81.chunk.js.map",
     "index.html": "/front/index.html",
-    "precache-manifest.28eff7861c091e8b9b208d223b532d3f.js": "/front/precache-manifest.28eff7861c091e8b9b208d223b532d3f.js",
+    "precache-manifest.5e84a60655af695963e0d5a71276180e.js": "/front/precache-manifest.5e84a60655af695963e0d5a71276180e.js",
     "service-worker.js": "/front/service-worker.js",
     "static/css/main.fe6b82ad.chunk.css.map": "/front/static/css/main.fe6b82ad.chunk.css.map",
     "static/js/2.edb9cd81.chunk.js.LICENSE.txt": "/front/static/js/2.edb9cd81.chunk.js.LICENSE.txt",
@@ -16,19 +16,19 @@
     "static/media/Ellipse 45.svg": "/front/static/media/Ellipse 45.ea869291.svg",
     "static/media/Neck_POP_40yr_Old_Asian_Female_02_075_1536x960 1.png": "/front/static/media/Neck_POP_40yr_Old_Asian_Female_02_075_1536x960 1.f1801a21.png",
     "static/media/Vector.svg": "/front/static/media/Vector.21b6448d.svg",
-    "static/media/_.svg": "/front/static/media/_.db26fc63.svg",
     "static/media/image 10.svg": "/front/static/media/image 10.07486179.svg",
     "static/media/image 11.svg": "/front/static/media/image 11.5fba9542.svg",
     "static/media/image 13.svg": "/front/static/media/image 13.00bfe2ab.svg",
     "static/media/image 18.svg": "/front/static/media/image 18.4d0ec0ea.svg",
     "static/media/image 9.svg": "/front/static/media/image 9.fa7ada40.svg",
     "static/media/MoreInfo.module.css": "/front/static/media/long.dafbb86c.png",
+    "static/media/question.svg": "/front/static/media/question.db26fc63.svg",
     "static/media/vorte_long.png": "/front/static/media/vorte_long.27c0d928.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2d2c1fda.js",
     "static/js/2.edb9cd81.chunk.js",
     "static/css/main.fe6b82ad.chunk.css",
-    "static/js/main.f0be427e.chunk.js"
+    "static/js/main.9b1ab94a.chunk.js"
   ]
 }
